@@ -1,0 +1,5 @@
+{
+    "model": "gpt-4o",
+    "function_call": "auto",
+    "temperature": 0.1
+}
