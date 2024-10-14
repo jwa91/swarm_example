@@ -2,7 +2,7 @@
 
 ## Overview
 
-swarm_example is an example project showcasing the implementation of a scalable agent-based system using OpenAI's new swarm library. This repository demonstrates a proposed structure for organizing and managing multiple AI agents within a single application.
+swarm_example is an example project showcasing the implementation of a scalable agent-based system using OpenAI's new swarm library. This repository demonstrates a proposed structure for organizing and managing multiple AI agents within a single application. Read the blogpost [here](https://janwillemaltink.eu/blog/blogartikelen/agentframeworks-deel-3-swarm) (Dutch)
 
 ## Project Structure
 
