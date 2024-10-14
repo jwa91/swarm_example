@@ -106,6 +106,11 @@ Run the main script to see the multi-agent system in action:
 ```shell
 python -m swarm_example.main
 ```
+OR (if installed as package)
+
+```shell
+swarm_example
+```
 
 This will simulate user queries and demonstrate how the Router Agent directs them to the appropriate specialized agent.
 
